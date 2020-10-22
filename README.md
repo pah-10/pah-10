@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pah-10"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pah-10&layout=compact&theme=radical" />
+</a>
+
 <!--
 **pah-10/pah-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
