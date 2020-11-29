@@ -10,7 +10,8 @@ ____________________________________________
 
 Se desejar entrar em contato, sinta-se à vontade para me enviar um "oie" no meu e-mail ou em uma das redes sociais abaixo.
 
-E-mail : paolacapita9@gmail.com
+E-mail: paolacapita9@gmail.com
+Linktree: https://linktr.ee/paolaCapita
 
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pah-10"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pah-10&layout=compact&theme=radical" />
 </a>
