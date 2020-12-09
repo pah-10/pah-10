@@ -11,7 +11,6 @@ ____________________________________________
 Se desejar entrar em contato, sinta-se à vontade para me enviar um "oie" no meu e-mail ou em uma das redes sociais abaixo.
 
 E-mail: paolacapita9@gmail.com
-
 Linktree: https://linktr.ee/paolaCapita
 
 <!--
