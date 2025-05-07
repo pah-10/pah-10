@@ -2,7 +2,7 @@
 
 ### Hello World! 👋
 
-Eu sou a Paola, tenho 21 anos e sou apaixonada por tecnologia.
+Eu sou a Paola, tenho 22 anos e sou apaixonada por tecnologia.
 
 Comecei a me aprofundar nesse mundo em 2019, quando ingressei em um curso técnico em informática e tive contato com conceitos de rede, infraestrutura, segurança, banco de dados e programação em JS, HTML e CSS.
 
